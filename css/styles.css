@@ -1,0 +1,14 @@
+body {
+  background-image: url(http://th06.deviantart.net/fs71/PRE/f/2013/048/b/9/kraken_unleashed_v3_by_papercutillustration-d5v4r2l.jpg);
+
+  background-size: 100%;
+}
+
+.jumbotron {
+    background-color: #c68f4c !important;
+    opacity: .7;
+}
+
+.sidebar {
+  float: right;
+}
