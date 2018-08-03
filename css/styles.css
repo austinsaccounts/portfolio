@@ -6,10 +6,10 @@ body {
 .jumbotron {
     background-color: #c68f4c !important;
     opacity: .7;
-    position: absolute;
+    position: relative;
     text-align: center;
     width: 100%;
-    padding: 10pt;
+    padding: 1pt;
     border: 20pt;
     margin-bottom: 20pt;
 }
@@ -18,18 +18,21 @@ body {
   display: block;
   float: right;
   width: 225px !important;
-  padding: 50px;
-  border: 20px;
-  margin-top: 10%;
-  margin-left: 5%;
+  padding: 25px;
+  border: 10px;
+  margin-top: 5pt;
+  /* margin-left: 5%; */
 }
 
-.container {
+/* .container {
 padding: 25px;
 border: 25px;
-}
+} */
 
 .btn-cust {
   background-color: #d3b090;
   margin: 15%;
+}
+.btn-this-page {
+  opacity: .4;
 }

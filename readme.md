@@ -28,9 +28,11 @@ _{Are there issues that have not yet been resolved that you want to let users kn
 
 _{Austin Cummings. email me at Austins.accts@gmail.com}_
 
-## Technologies Used
+## Technologies Used And cool tricks
 
 _{html, css}_
+
+_{notice that the directional linking buttons will be faded when on their corresponding screens}_
 
 ### License
 
