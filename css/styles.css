@@ -1,22 +1,35 @@
 body {
   background-image: url(http://th06.deviantart.net/fs71/PRE/f/2013/048/b/9/kraken_unleashed_v3_by_papercutillustration-d5v4r2l.jpg);
-
   background-size: 100%;
 }
 
 .jumbotron {
     background-color: #c68f4c !important;
     opacity: .7;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    padding: 10pt;
+    border: 20pt;
+    margin-bottom: 20pt;
 }
 
 .sidebar {
+  display: block;
   float: right;
+  width: 225px !important;
+  padding: 50px;
+  border: 20px;
+  margin-top: 10%;
+  margin-left: 5%;
 }
 
-li {
-  width: 10px;
+.container {
+padding: 25px;
+border: 25px;
 }
 
-.buttons {
-
+.btn-cust {
+  background-color: #d3b090;
+  margin: 15%;
 }
