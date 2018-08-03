@@ -14,7 +14,7 @@ _{this portfolio will present my name,
 * _Atom or some text editor will be required for ideal viewing of code/programming used_
 * _the git repository can be cloned from the link below_
 * _https://github.com/austinsaccounts/portfolio.git_
-
+*_file:///C:/Users/user/Desktop/portfolio/index.html_
 * _&*&*^%%&^*%^*%^*^&*%^&*^&_
 * _%^&*%^*%^&*%^&*gh page%^&^&$%&%^&_
 

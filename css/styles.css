@@ -50,11 +50,6 @@ border: 2%;
    /* transparent background workaround*/
 }
 
-.colors {
-  background: 225,255,255,.5
-  color: black;
-}
-
 blockquote {
   display: block;
   width: 30pt;
@@ -62,8 +57,10 @@ blockquote {
   padding-top: 3%;
 }
 
-#inked {
+a {
   display: block;
   align-content: center;
   margin-left: 40%;
+  background-color: 225,255,255,.5;
+
 }
