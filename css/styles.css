@@ -12,3 +12,11 @@ body {
 .sidebar {
   float: right;
 }
+
+li {
+  width: 10px;
+}
+
+.buttons {
+
+}
