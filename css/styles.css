@@ -9,30 +9,61 @@ body {
     position: relative;
     text-align: center;
     width: 100%;
-    padding: 1pt;
-    border: 20pt;
     margin-bottom: 20pt;
 }
 
 .sidebar {
   display: block;
+  box-sizing: content-box;
   float: right;
-  width: 225px !important;
+  width: content;
   padding: 25px;
   border: 10px;
   margin-top: 5pt;
   /* margin-left: 5%; */
 }
 
-/* .container {
-padding: 25px;
-border: 25px;
-} */
+.container {
+padding: 2%;
+border: 2%;
+}
 
 .btn-cust {
   background-color: #d3b090;
   margin: 15%;
 }
+
 .btn-this-page {
   opacity: .4;
 }
+
+.fluff {
+   word-wrap: normal;
+   display: block;
+   float: bottom;
+   margin-left: 40%;
+   width: 20%;
+   color: #ef002c;
+   text-shadow: 2pt 2pt #f78096;
+   background: rgb(225,182,129,.5);
+   height: content;
+   /* transparent background workaround*/
+}
+
+blockquote {
+  display: inline-block;
+  width: 30%;
+  float: left;
+  padding-top: 3%;
+}
+
+/* to be fixed if time permits  */
+/* #inked {
+  visibility: collapse;
+}
+#ink {
+  visibility: visible;
+}
+#ink:hover + #inked {
+  visibility: visible;
+  } */
