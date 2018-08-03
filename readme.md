@@ -15,8 +15,7 @@ _{this portfolio will present my name,
 * _the git repository can be cloned from the link below_
 * _https://github.com/austinsaccounts/portfolio.git_
 
-* _&*&*^%%&^*%^*%^*^&*%^&*^&_
-* _%^&*%^*%^&*%^&*gh page%^&^&$%&%^&_
+* _&*&*^%%&^*%^*%^*^&*%^&*^&_"
 
 _{The gh pages should be viewable in current versions of Google Chrome browsers}_
 
@@ -33,6 +32,8 @@ _{Austin Cummings. email me at Austins.accts@gmail.com}_
 _{html, css}_
 
 _{notice that the directional linking buttons will be faded when on their corresponding screens}_
+
+* _the "inked reference changes colors
 
 ### License
 
