@@ -16,11 +16,11 @@ body {
   display: block;
   box-sizing: content-box;
   float: right;
-  width: content;
+  width: 20%;
   padding: 25px;
   border: 10px;
   margin-top: 5pt;
-  /* margin-left: 5%; */
+  margin-left: 5%;
 }
 
 .container {
@@ -50,17 +50,18 @@ border: 2%;
    /* transparent background workaround*/
 }
 
+
+
 blockquote {
   display: block;
   width: 30pt;
   float: left;
   padding-top: 3%;
 }
-
+/* 
 a {
   display: block;
   align-content: center;
   margin-left: 40%;
   background-color: 225,255,255,.5;
-
-}
+} */
